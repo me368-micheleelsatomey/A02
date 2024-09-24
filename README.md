@@ -76,3 +76,11 @@ git pull origin main
 11) **Remote**: A remote repository is a version of your project hosted on the internet or network. GitHub repositories are an example of remotes.
 
 12) **Repository**: A repository is a storage space where your project's code and history are stored. It can be either local (on your machine) or remote (on GitHub).
+
+
+REFERENCES:
+
+1) https://docs.github.com/en/get-started/start-your-journey/hello-world
+2) https://phoenixnap.com/kb/how-to-use-git
+3) https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html
+4) https://www.w3schools.com/git/
